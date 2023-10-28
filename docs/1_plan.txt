@@ -1,0 +1,28 @@
+Different features I want in the project.not worrying about feasability
+Identify resources to learn for getting started
+Learn from resources
+Thinking of a set of tasks to help to get started with the project
+
+While task not finished
+    Identify task for current cycle of biulding
+    Identify resources to learn for achieving the task 
+    learn from resources
+
+    make an attempt
+
+    identify gaps in knowledge
+    identify resoures to plug gaps in knowledge
+    learn from resources
+
+    Update features list and task lists
+    Want to redo current task or a new task in next cycle
+
+Identify gaps in knowledge
+Rethink resorces to plug gaps in knowledge
+Learn from resources
+
+Make a github repo,deploy software,video
+
+Rethink projects that you will want to do 
+Want to redurrent project or a new project
+

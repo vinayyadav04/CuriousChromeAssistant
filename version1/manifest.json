@@ -1,0 +1,22 @@
+{
+   "name":"Being curious",
+   "description":"A chrome extension for efficient internet browsing",
+   "version":"1.0",
+   "manifest_version":3,
+   "icons":{
+            "16":"images/curious_16.jpg",
+            "32":"images/curious_32.jpg",
+            "48":"images/curious_48.jpg",
+            "128":"images/curious_128.jpg"
+           },
+           "content_scripts":[
+            {
+                "js":["scripts/popup.js","scripts/content.js"],
+                "css":["scripts/content.css"],
+                "matches":[
+                    "*://*/*"
+                ]
+            }
+           ]
+
+}

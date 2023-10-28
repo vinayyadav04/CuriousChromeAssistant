@@ -1,0 +1,6 @@
+Show a button on all websites
+Start listening on btn click and stop on btn click again.Display transcript on console.(speech to text)
+Display transcript on popup
+The button clicks should also help to get started with project
+
+
